@@ -1,0 +1,14 @@
+.green-flag.red-flag {
+    font-size: 28px;
+    font-family: "Helvetica","Times New Roman",sans-serif;
+}
+
+.green-flag {
+color: white;
+background-color: black;
+}
+
+.red-flag {
+background-color: yellow;
+
+}
